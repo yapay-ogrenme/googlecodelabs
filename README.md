@@ -9,16 +9,15 @@ Bu tweet embed edilirse buraya güzel olabilir (https://twitter.com/martin_gorne
 
 ## Çeviren ve Düzenleyenler:
 
-**[Başak Buluz]()**
+:wavy_dash: **[Başak Buluz]()**
 
-**[Merve Ayyüce Kızrak]()**
+:wavy_dash: **[Merve Ayyüce Kızrak]()**
 
-**[Yavuz Kömeçoğlu]()**
+:wavy_dash: **[Yavuz Kömeçoğlu]()**
 
 
 
 ![](https://github.com/yapay-ogrenme/googlecodelabs/blob/master/BAY.jpeg)
-:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 
 ---
 
