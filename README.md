@@ -8,7 +8,7 @@ Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyol
 ---
 ## KONU AKIŞI
 
-### [1. Bölüm]
+### 1. Bölüm
 - **[1.1. TPU Hızlı Veri Hattı: Genel Bakış](https://github.com/yapay-ogrenme/googlecodelabs/wiki/1.1.-TPU-H%C4%B1zl%C4%B1-Veri-Hatt%C4%B1:-Genel-Bak%C4%B1%C5%9F)**
 - **[1.2. TPU Hızlı Veri Hattı: Hızlı Bir Başlangıç](https://github.com/yapay-ogrenme/googlecodelabs/wiki/1.2.-TPU-speed-data-pipelines:-Quick-Start)**
 - **[1.3. [Giriş] Tensör İşleme Üniteleri (TPU'lar) nedir?](https://github.com/yapay-ogrenme/googlecodelabs/wiki/1.3.-%5BGiri%C5%9F%5D-Tens%C3%B6r-%C4%B0%C5%9Fleme-%C3%9Cniteleri-(TPU'lar)-nedir%3F)**
