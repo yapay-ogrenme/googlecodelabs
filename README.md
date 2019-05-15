@@ -2,7 +2,7 @@
 
 
 ![](https://codelabs.developers.google.com/codelabs/keras-flowers-data/img/1dd39cb813f337e2.jpeg)
-![](<img src="https://i.hizliresim.com/y6Y9Gy.png">)
+![](img src="https://i.hizliresim.com/y6Y9Gy.png")
 
 The author: Martin Görner
 
