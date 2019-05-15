@@ -9,11 +9,11 @@ Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyol
 
 ## Çeviren ve Düzenleyenler:
 
-:wavy_dash: **[Başak Buluz]()**
+:wavy_dash: **[Başak Buluz](https://twitter.com/basakbuluz)**
 
-:wavy_dash: **[Merve Ayyüce Kızrak]()**
+:wavy_dash: **[Merve Ayyüce Kızrak](https://twitter.com/ayyucekizrak)**
 
-:wavy_dash: **[Yavuz Kömeçoğlu]()**
+:wavy_dash: **[Yavuz Kömeçoğlu](https://twitter.com/YavuzKomecoglu)**
 
 
 
