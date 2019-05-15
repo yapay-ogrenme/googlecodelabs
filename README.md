@@ -16,11 +16,13 @@ Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyol
 - **[1.5. Verilerin Hızlı Yüklenmesi](https://github.com/yapay-ogrenme/googlecodelabs/wiki/1.5.-Verilerin-H%C4%B1zl%C4%B1-Y%C3%BCklenmesi)**
 - **[1.6. Tebrikler!!!](https://github.com/yapay-ogrenme/googlecodelabs/wiki/1.6.-Tebrikler!!!)**
 
-### [2. Bölüm]()
+### 2. Bölüm
+- **[2.1. Transfer Öğrenme: Genel Bakış](https://github.com/yapay-ogrenme/googlecodelabs/wiki/2.1.-Transfer-learning:-Overview)**
+- **[2.2. TPU Hızlı Veri Hattı: Hızlı Bir Başlangıç](https://github.com/yapay-ogrenme/googlecodelabs/wiki/1.2.-TPU-speed-data-pipelines:-Quick-Start)**
 
-### [3. Bölüm]()
+### 3. Bölüm
 
-### [4. Bölüm]()
+### 4. Bölüm
 
 
 ---
