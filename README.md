@@ -38,6 +38,7 @@ Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyol
 
 
 ![](https://github.com/yapay-ogrenme/googlecodelabs/blob/master/BAY.png)
+
 _IstanbuL, Turkey_
 
 ---
