@@ -15,9 +15,9 @@ Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyol
 
 :wavy_dash: **[Yavuz Kömeçoğlu]()**
 
-https://github.com/yapay-ogrenme/googlecodelabs/blob/master/BAY.png
 
-![](https://github.com/yapay-ogrenme/googlecodelabs/blob/master/BAY.jpeg)
+
+![](https://github.com/yapay-ogrenme/googlecodelabs/blob/master/BAY.png)
 
 ---
 
