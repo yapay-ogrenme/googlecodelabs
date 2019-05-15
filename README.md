@@ -14,7 +14,8 @@ Bu tweet embed edilirse buraya güzel olabilir (https://twitter.com/martin_gorne
 **[Merve Ayyüce Kızrak]()**
 
 **[Yavuz Kömeçoğlu]()**
-![]https://drive.google.com/file/d/1Us91cq-JGJLVHoXQ3Fl5WgaxVFcDXG1_/view?usp=sharing)
+
+![](https://drive.google.com/file/d/1Us91cq-JGJLVHoXQ3Fl5WgaxVFcDXG1_/view?usp=sharing)
 
 ---
 
