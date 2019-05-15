@@ -17,7 +17,8 @@ Bu tweet embed edilirse buraya güzel olabilir (https://twitter.com/martin_gorne
 
 
 
-![](https://drive.google.com/uc?export=view&id=1Us91cq-JGJLVHoXQ3Fl5WgaxVFcDXG1)
+![](https://github.com/yapay-ogrenme/googlecodelabs/blob/master/BAY.jpeg)
+:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 
 ---
 
