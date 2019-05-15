@@ -3,7 +3,7 @@
 
 Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyolojik beyinlerimizden daha hızlı işlem yapabildiğini söyleyen [Martin Görner](https://twitter.com/martin_gorner) tarafından, Google I/O2 2019 Konferansında, **GoogleCodeLabs** altında sunulan çalışmayı Türkçe olarak yayınlamamıza izin verdiği için teşekkür ederiz! :sunglasses:
 
-![](https://twitter.com/martin_gorner/status/1125870518031175680)
+Bu tweet embed edilirse buraya güzel olabilir (https://twitter.com/martin_gorner/status/1125870518031175680)
 
 ---
 
@@ -14,6 +14,7 @@ Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyol
 **[Merve Ayyüce Kızrak]()**
 
 **[Yavuz Kömeçoğlu]()**
+![](https://twitter.com/YavuzKomecoglu/status/1117093070758137856)
 
 ---
 
