@@ -18,10 +18,15 @@ Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyol
 
 ### 2. Bölüm
 - **[2.1. Transfer Öğrenme: Genel Bakış](https://github.com/yapay-ogrenme/googlecodelabs/wiki/2.1.-Transfer-learning:-Overview)**
-- **[2.2. TPU Hızlı Veri Hattı: Hızlı Bir Başlangıç](https://github.com/yapay-ogrenme/googlecodelabs/wiki/1.2.-TPU-speed-data-pipelines:-Quick-Start)**
+- **[2.2. Google Colaboratory Hızlı Başlangıç](https://github.com/yapay-ogrenme/googlecodelabs/wiki/2.2.-Google-Colaboratory-H%C4%B1zl%C4%B1-Ba%C5%9Flang%C4%B1%C3%A7)**
+- **[2.3. [BİLGİ] Yapay Sinir Ağı ile Sınıflandırma 101](https://github.com/yapay-ogrenme/googlecodelabs/wiki/2.3.-%5BB%C4%B0LG%C4%B0%5D-Yapay-Sinir-A%C4%9F%C4%B1-ile-S%C4%B1n%C4%B1fland%C4%B1rma-101)**
+- **[2.4. Transfer Öğrenme](https://github.com/yapay-ogrenme/googlecodelabs/wiki/2.4.-Transfer-%C3%96%C4%9Frenme)**
+- **[2.5. Tebrikler!!!](https://github.com/yapay-ogrenme/googlecodelabs/wiki/2.5.-Tebrikler!!!)**
 
 ### 3. Bölüm
-
+- **[3.1. Keras ve TPU ile Evrişimli Sinir Ağları](https://github.com/yapay-ogrenme/googlecodelabs/wiki/3.1.-Keras-ve-TPU-ile-Evri%C5%9Fimli-Sinir-A%C4%9Flar%C4%B1)**
+- **[3.2. Google Colaboratory Hızlı Başlangıç](https://github.com/yapay-ogrenme/googlecodelabs/wiki/3.2.-Google-Colaboratory-H%C4%B1zl%C4%B1-Ba%C5%9Flang%C4%B1%C3%A7)**
+- **[3.3. [BİLGİ] Yapay Sinir Ağı ile Sınıflandırma 101](https://github.com/yapay-ogrenme/googlecodelabs/wiki/3.3.-%5BB%C4%B0LG%C4%B0%5D-Yapay-Sinir-A%C4%9F%C4%B1-ile-S%C4%B1n%C4%B1fland%C4%B1rma-101)**
 ### 4. Bölüm
 
 
