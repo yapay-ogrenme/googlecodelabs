@@ -26,7 +26,8 @@ Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyol
 ### 3. Bölüm
 - **[3.1. Keras ve TPU ile Evrişimli Sinir Ağları](https://github.com/yapay-ogrenme/googlecodelabs/wiki/3.1.-Keras-ve-TPU-ile-Evri%C5%9Fimli-Sinir-A%C4%9Flar%C4%B1)**
 - **[3.2. Google Colaboratory Hızlı Başlangıç](https://github.com/yapay-ogrenme/googlecodelabs/wiki/3.2.-Google-Colaboratory-H%C4%B1zl%C4%B1-Ba%C5%9Flang%C4%B1%C3%A7)**
-- **[3.3. [BİLGİ] Yapay Sinir Ağı ile Sınıflandırma 101](https://github.com/yapay-ogrenme/googlecodelabs/wiki/3.3.-%5BB%C4%B0LG%C4%B0%5D-Yapay-Sinir-A%C4%9F%C4%B1-ile-S%C4%B1n%C4%B1fland%C4%B1rma-101)**
+- **[3.3. [Giriş] Tensör İşleme Üniteleri (TPU'lar) nedir?](https://github.com/yapay-ogrenme/googlecodelabs/wiki/3.3.-%5BGiri%C5%9F%5D-Tens%C3%B6r-%C4%B0%C5%9Fleme-%C3%9Cniteleri-(TPU'lar)-nedir%3F)**
+- **[3.4. [BİLGİ] Yapay Sinir Ağı ile Sınıflandırma 101](https://github.com/yapay-ogrenme/googlecodelabs/wiki/3.3.-%5BB%C4%B0LG%C4%B0%5D-Yapay-Sinir-A%C4%9F%C4%B1-ile-S%C4%B1n%C4%B1fland%C4%B1rma-101)**
 ### 4. Bölüm
 
 
