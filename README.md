@@ -59,7 +59,9 @@ Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyol
 - **[4.7. Tebrikler!!!](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.7.-Tebrikler!!!)**
 
 ---
+
 :deciduous_tree: **Uygulamalı Ek Kaynak: [Adım Adım Google Colab Ücretsiz TPU Kullanımı](https://medium.com/@ayyucekizrak/ad%C4%B1m-ad%C4%B1m-google-colab-%C3%BCcretsiz-tpu-kullan%C4%B1m%C4%B1-621dc6e5487d)**
+
 ---
 
 ## Çeviren ve Düzenleyenler:
