@@ -19,8 +19,8 @@ Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyol
 
 
 - **[1.1. TPU Hızlı Veri Hattı: Genel Bakış](https://github.com/yapay-ogrenme/googlecodelabs/wiki/1.1.-TPU-H%C4%B1zl%C4%B1-Veri-Hatt%C4%B1:-Genel-Bak%C4%B1%C5%9F)**
-- **[1.2. TPU Hızlı Veri Hattı: Hızlı Bir Başlangıç](https://github.com/yapay-ogrenme/googlecodelabs/wiki/1.2.-TPU-speed-data-pipelines:-Quick-Start)**
-- **[1.3. [BİLGİ] Tensör İşleme Üniteleri (TPU'lar) nedir?](https://github.com/yapay-ogrenme/googlecodelabs/wiki/1.3.-%5BGiri%C5%9F%5D-Tens%C3%B6r-%C4%B0%C5%9Fleme-%C3%9Cniteleri-(TPU'lar)-nedir%3F)**
+- **[1.2. TPU Hızlı Veri Hattı: Hızlı Bir Başlangıç](https://github.com/yapay-ogrenme/googlecodelabs/wiki/1.2.-Google-Colaboratory-H%C4%B1zl%C4%B1-Ba%C5%9Flang%C4%B1%C3%A7)**
+- **[1.3. [BİLGİ] Tensör İşleme Üniteleri (TPU'lar) nedir?](https://github.com/yapay-ogrenme/googlecodelabs/wiki/1.3.-%5BB%C4%B0LG%C4%B0%5D-Tens%C3%B6r-%C4%B0%C5%9Fleme-%C3%9Cniteleri-(TPU'lar)-nedir%3F)**
 - **[1.4. Verilerin Yüklenmesi](https://github.com/yapay-ogrenme/googlecodelabs/wiki/1.4.-Verilerin-Y%C3%BCklenmesi)**
 - **[1.5. Verilerin Hızlı Yüklenmesi](https://github.com/yapay-ogrenme/googlecodelabs/wiki/1.5.-Verilerin-H%C4%B1zl%C4%B1-Y%C3%BCklenmesi)**
 - **[1.6. Tebrikler!!!](https://github.com/yapay-ogrenme/googlecodelabs/wiki/1.6.-Tebrikler!!!)**
@@ -29,7 +29,7 @@ Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyol
 ### 2. Bölüm 
 :honey_pot: _[Orijinal Kaynak](https://codelabs.developers.google.com/codelabs/keras-flowers-transfer-learning/#0)_
 
-- **[2.1. Transfer Öğrenme: Genel Bakış](https://github.com/yapay-ogrenme/googlecodelabs/wiki/2.1.-Transfer-learning:-Overview)**
+- **[2.1. Transfer Öğrenme: Genel Bakış](https://github.com/yapay-ogrenme/googlecodelabs/wiki/2.1.-Transfer-%C3%96%C4%9Frenme:-Genel-Bak%C4%B1%C5%9F)**
 - **[2.2. Google Colaboratory Hızlı Başlangıç](https://github.com/yapay-ogrenme/googlecodelabs/wiki/2.2.-Google-Colaboratory-H%C4%B1zl%C4%B1-Ba%C5%9Flang%C4%B1%C3%A7)**
 - **[2.3. [BİLGİ] Yapay Sinir Ağı ile Sınıflandırma 101](https://github.com/yapay-ogrenme/googlecodelabs/wiki/2.3.-%5BB%C4%B0LG%C4%B0%5D-Yapay-Sinir-A%C4%9F%C4%B1-ile-S%C4%B1n%C4%B1fland%C4%B1rma-101)**
 - **[2.4. Transfer Öğrenme](https://github.com/yapay-ogrenme/googlecodelabs/wiki/2.4.-Transfer-%C3%96%C4%9Frenme)**
@@ -41,7 +41,7 @@ Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyol
 
 - **[3.1. Keras ve TPU ile Evrişimli Sinir Ağları](https://github.com/yapay-ogrenme/googlecodelabs/wiki/3.1.-Keras-ve-TPU-ile-Evri%C5%9Fimli-Sinir-A%C4%9Flar%C4%B1)**
 - **[3.2. Google Colaboratory Hızlı Başlangıç](https://github.com/yapay-ogrenme/googlecodelabs/wiki/3.2.-Google-Colaboratory-H%C4%B1zl%C4%B1-Ba%C5%9Flang%C4%B1%C3%A7)**
-- **[3.3. [BİLGİ] Tensör İşleme Üniteleri (TPU'lar) nedir?](https://github.com/yapay-ogrenme/googlecodelabs/wiki/3.3.-%5BGiri%C5%9F%5D-Tens%C3%B6r-%C4%B0%C5%9Fleme-%C3%9Cniteleri-(TPU'lar)-nedir%3F)**
+- **[3.3. [BİLGİ] Tensör İşleme Üniteleri (TPU'lar) nedir?](https://github.com/yapay-ogrenme/googlecodelabs/wiki/3.3.-%5BB%C4%B0LG%C4%B0%5D-Tens%C3%B6r-%C4%B0%C5%9Fleme-%C3%9Cniteleri-(TPU'lar)-nedir%3F)**
 - **[3.4. [BİLGİ] Yapay Sinir Ağı ile Sınıflandırma 101](https://github.com/yapay-ogrenme/googlecodelabs/wiki/3.4.-%5BB%C4%B0LG%C4%B0%5D-Yapay-Sinir-A%C4%9F%C4%B1-ile-S%C4%B1n%C4%B1fland%C4%B1rma-101)**
 - **[3.5. [YENİ BİLGİ] Evrişimli Sinir Ağları](https://github.com/yapay-ogrenme/googlecodelabs/wiki/3.5.-%5BYEN%C4%B0-B%C4%B0LG%C4%B0%5D-Evri%C5%9Fimli-Sinir-A%C4%9Flar%C4%B1)**
 - **[3.6. Size özel convnet](https://github.com/yapay-ogrenme/googlecodelabs/wiki/3.6.-Size-%C3%B6zel-convnet)**
@@ -52,11 +52,12 @@ Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyol
 
 - **[4.1. Keras ve TPU ile Modern convnets, squeezenet](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.1.-Keras-ve-TPU-ile-Modern-convnets,-squeezenet)**
 - **[4.2. Google Colaboratory Hızlı Başlangıç](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.2.-Google-Colaboratory-H%C4%B1zl%C4%B1-Ba%C5%9Flang%C4%B1%C3%A7)**
-- **[4.3. [BİLGİ] Tensör İşleme Üniteleri (TPU'lar) nedir?](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.3.-%5BGiri%C5%9F%5D-Tens%C3%B6r-%C4%B0%C5%9Fleme-%C3%9Cniteleri-(TPU'lar)-nedir%3F)**
+- **[4.3. [BİLGİ] Tensör İşleme Üniteleri (TPU'lar) nedir?](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.3.-%5BB%C4%B0LG%C4%B0%5D-Tens%C3%B6r-%C4%B0%C5%9Fleme-%C3%9Cniteleri-(TPU'lar)-nedir%3F)**
 - **[4.4. [BİLGİ] Yapay Sinir Ağı ile Sınıflandırma 101](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.4.-%5BB%C4%B0LG%C4%B0%5D-Yapay-Sinir-A%C4%9F%C4%B1-ile-S%C4%B1n%C4%B1fland%C4%B1rma-101)**
 - **[4.5. [BİLGİ] Evrişimli Sinir Ağları](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.5.-%5BB%C4%B0LG%C4%B0%5D-Evri%C5%9Fimli-Sinir-A%C4%9Flar%C4%B1)**
-- **[4.6. Squeezenet](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.6.-Squeezenet)**
-- **[4.7. Tebrikler!!!](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.7.-Tebrikler!!!)**
+- **[4.6. Squeezenet](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.6.-%5BYEN%C4%B0-B%C4%B0LG%C4%B0%5D-Modern-Evri%C5%9Fimli-Mimariler)**
+- **[4.7. Squeezenet](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.7.-Squeezenet)**
+- **[4.8. Tebrikler!!!](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.8.-Tebrikler!!!)**
 
 ---
 
