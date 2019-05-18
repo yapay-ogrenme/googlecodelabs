@@ -7,6 +7,7 @@ Would you like to train deep learning models using a TPU?!
 Thanks to **Martin Görner** for letting us publish the work presented within **GoogleCodeLabs** in Turkish!
 
 Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyolojik beyinlerimizden daha hızlı işlem yapabildiğini söyleyen [Martin Görner](https://twitter.com/martin_gorner) tarafından, Google I/O 2019 Konferansında, **GoogleCodeLabs** altında sunulan çalışmayı Türkçe olarak yayınlamamıza izin verdiği için teşekkür ederiz! :sunglasses:
+
 ---
 
 ![https://twitter.com/martin_gorner/status/1125870518031175680](https://github.com/yapay-ogrenme/googlecodelabs/blob/master/MG_Tweet.PNG)
