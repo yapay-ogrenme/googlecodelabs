@@ -84,4 +84,4 @@ Yazar: Martin Görner
 
 Twitter: [@martin_gorner](https://twitter.com/martin_gorner)
 
-<img src="https://pbs.twimg.com/profile_images/1103339571977248768/FtFnqC38_400x400.png" align="left"  width="160">
+<img src="https://pbs.twimg.com/profile_images/1103339571977248768/FtFnqC38_400x400.png" align="right"  width="160">
