@@ -77,14 +77,14 @@ Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyol
 
 ![](https://github.com/yapay-ogrenme/googlecodelabs/blob/master/BAY.png)
 
-_Istanbul, Turkey_
+**_Istanbul, Turkey_**
 
 ---
 
 ![](https://codelabs.developers.google.com/codelabs/keras-flowers-data/img/1dd39cb813f337e2.jpeg) <img src="https://pbs.twimg.com/profile_images/1103339571977248768/FtFnqC38_400x400.png" align="right"  width="160">
 
-Yazar: Martin Görner
+**Yazar: Martin Görner**
 
-Twitter: [@martin_gorner](https://twitter.com/martin_gorner)
+**Twitter: [@martin_gorner](https://twitter.com/martin_gorner)**
 
 
