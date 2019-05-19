@@ -55,7 +55,7 @@ Derin öğrenme modellerini bir de TPU kullanarak eğitmek ister misiniz?! Biyol
 - **[4.3. [BİLGİ] Tensör İşleme Üniteleri (TPU'lar) nedir?](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.3.-%5BB%C4%B0LG%C4%B0%5D-Tens%C3%B6r-%C4%B0%C5%9Fleme-%C3%9Cniteleri-(TPU'lar)-nedir%3F)**
 - **[4.4. [BİLGİ] Yapay Sinir Ağı ile Sınıflandırma 101](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.4.-%5BB%C4%B0LG%C4%B0%5D-Yapay-Sinir-A%C4%9F%C4%B1-ile-S%C4%B1n%C4%B1fland%C4%B1rma-101)**
 - **[4.5. [BİLGİ] Evrişimli Sinir Ağları](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.5.-%5BB%C4%B0LG%C4%B0%5D-Evri%C5%9Fimli-Sinir-A%C4%9Flar%C4%B1)**
-- **[4.6. Squeezenet](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.6.-%5BYEN%C4%B0-B%C4%B0LG%C4%B0%5D-Modern-Evri%C5%9Fimli-Mimariler)**
+- **[4.6. [YENİ BİLGİ] Modern Evrişimli Mimariler](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.6.-%5BYEN%C4%B0-B%C4%B0LG%C4%B0%5D-Modern-Evri%C5%9Fimli-Mimariler)**
 - **[4.7. Squeezenet](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.7.-Squeezenet)**
 - **[4.8. Tebrikler!!!](https://github.com/yapay-ogrenme/googlecodelabs/wiki/4.8.-Tebrikler!!!)**
 
